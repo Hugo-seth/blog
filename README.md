@@ -1,4 +1,4 @@
-## The posts are in issues.
+# [文章列表](https://github.com/Hugo-seth/blog/issues)
 
 ### Angular 1.x
 
